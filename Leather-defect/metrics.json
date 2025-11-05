@@ -1,0 +1,12 @@
+{
+  "plain_val_acc": 0.8722222222222222,
+  "hybrid_val_acc": 0.7472222222222222,
+  "classes": [
+    "Folding marks",
+    "Grain off",
+    "Growth marks",
+    "loose grains",
+    "non defective",
+    "pinhole"
+  ]
+}
