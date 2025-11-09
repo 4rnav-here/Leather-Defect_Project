@@ -1,4 +1,4 @@
-# 🪡 Leather Defect Detector  (Arpit saale clone mat kariyo bkl)
+# 🪡 Leather Defect Detector  (Arpit saale clone mat kariyo bkl also who is this riya)
 # Aur tu bhi sahil saale
 *An AI-powered leather quality inspector that spots scratches, wrinkles, holes — and even fakes that aren’t leather.*
 
